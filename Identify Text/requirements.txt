@@ -1,0 +1,10 @@
+torch
+transformers
+Pillow
+accelerate
+safetensors
+torchvision
+numpy
+opencv-python
+ultralytics
+scipy
