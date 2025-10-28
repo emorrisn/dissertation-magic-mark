@@ -1,0 +1,46 @@
+Name: Harriet Date: 6th October HAZARDS 1
+
+01.1 Complete Figure 1 by adding the following below into the correct category.
+
+[2 marks]
+
+Figure 1
+
+<table>
+  <thead>
+    <tr>
+      <th>Tropical Storm</th>
+      <th>Landslide</th>
+      <th>River Flood</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Geological</td>
+      <td>Hydrological</td>
+      <td>Atmospheric</td>
+    </tr>
+    <tr>
+      <td>Volcano</td>
+      <td>Storm Surge</td>
+      <td>Forest Fire</td>
+    </tr>
+    <tr>
+      <td><mark>Landslide</mark></td>
+      <td><mark>River flood</mark></td>
+      <td><mark>Tropical storm</mark></td>
+    </tr>
+  </tbody>
+</table>
+
+01.2 State two ways that planning might help to reduce the damaging effects of an earthquake or a volcanic eruption.
+
+[2 marks]
+
+Planning can help because you can find evacuation areas and educate people on what to do.
+
+01.3 Explain how increasing use of fossil fuels and changes in agriculture may have contributed to changes in global temperature.
+
+[4 marks]
+
+the increasing use of fossil fuels may have contributed to changes in global temperature because, you have to burn them so it's putting heat into the atmosphere which is then trapped by CO2 and other greenhouse gases. Cows produce methane which is another gas that will contribute to changes in global temperature.
