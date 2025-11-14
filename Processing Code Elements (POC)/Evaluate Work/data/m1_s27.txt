@@ -1,0 +1,22 @@
+Name: [ blank ]
+Date: 9/10/25
+
+[9]
+HAZARDS 2
+
+Study Figure 2, a map of Iceland showing the tectonic plates.
+
+**Figure 2**
+
+Key
+*   Mid-Atlantic Ridge (plate margin)
+*   Direction of plate movement
+*   Volcano
+*   Capital city
+*   Several hundred earthquakes are recorded in Iceland every year. Some have magnitudes of over 6 on the Richter scale.
+
+[6 marks]
+
+0.1.1 Using Figure 2 and your own understanding, suggest how plate movements cause tectonic hazards in Iceland.
+
+In Figure 2 I know that when the plates move they can push over their edges, therefore increasing the risk of volcanic eruptions happening. Also as the mid Atlantic ridge pulls closer it can leave gaps allowing magma to reach the top of the volcano, and due to the shakes that happen when the plates move, it can also happen to the extra space below the volcano, causing destructive earthquakes.

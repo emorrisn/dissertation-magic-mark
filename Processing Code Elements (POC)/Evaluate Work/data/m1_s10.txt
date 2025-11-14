@@ -1,0 +1,28 @@
+Name: Megan O'neill Date: 13/10/2028 HAZARDS 2
+
+Study Figure 2, a map of Iceland showing the tectonic plates.
+
+**Figure 2**
+
+Key
+- Mid-Atlantic Ridge (plate margin)
+- Direction of plate movement
+- Capital city
+- Volcano
+- Several hundred earthquakes are recorded in Iceland every year. Some have magnitudes of over 6 on the Richter scale.
+- Rate of plate movement: 2.5 cm per year
+
+Reykjavik
+North American Plate
+Eurasian Plate
+Iceland
+Atlantic Ocean
+0 50 100 km
+
+---
+
+**0.1.1 Using Figure 2 and your own understanding, suggest how plate movements cause tectonic hazards in Iceland.**
+
+[6 marks]
+
+In Figure 2, the Eurasian plate and the North American plate move apart from each other. The rate of the plate movement is 7.5 cm per year. The plates are moving away from each other. This also known as constructive, which causes volcanoes to erupt. The movement can also help magma rise up into the atmosphere.
