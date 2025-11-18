@@ -1,0 +1,11 @@
+{
+  "module_id": "m1",
+  "session_id": "9",
+  "student_file": "m1_s9.txt",
+  "model": "meta-llama/Llama-3.2-3B-Instruct",
+  "created_at": "2025-11-17T11:36:33.649768Z",
+  "raw_text": "{\n  \"marks_awarded\": 0,\n  \"feedback\": \"No relevant content. No geographical understanding of places, environments and processes. Limited application of knowledge and understanding in evaluating the importance of human factors to climate change. No explanation of climate change causes or effects. No mention of human actions contributing to climate change. No link between air pressure and surface winds. No explanation of why areas close to the Equator have high rainfall. No discussion of the Nazca Plate and South American Plate. No mention of destructive plate boundaries. No discussion of planning to reduce the damaging effects of earthquakes or volcanic eruptions. No clear demonstration of geographical understanding of places, environments and processes. No clear explanation of the factors that affect climate change. No clear application of knowledge and understanding in evaluating the importance of human and physical factors to climate change. No mention of the factors that affect climate change. No discussion of the factors that affect climate change. No clear explanation of the factors that affect climate change. No clear explanation of the factors that affect climate change. No clear explanation of the factors that affect climate change. No clear explanation of the factors that affect climate change. No clear explanation of the factors that affect climate change. No clear explanation of the factors that affect climate change. No clear explanation of the factors that affect climate change. No clear explanation of the factors that affect climate change. No clear explanation of the factors that affect climate change. No clear explanation of the factors that affect climate change. No clear explanation of the factors that affect climate change. No clear explanation of the factors that affect climate change. No clear explanation of the factors that affect climate change. No clear explanation of the factors that affect climate change. No clear explanation of the factors that affect climate",
+  "marks_awarded": null,
+  "feedback": null,
+  "alert": false
+}

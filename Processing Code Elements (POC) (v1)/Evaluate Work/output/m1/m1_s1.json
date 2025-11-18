@@ -1,0 +1,11 @@
+{
+  "module_id": "m1",
+  "session_id": "1",
+  "student_file": "m1_s1.txt",
+  "model": "meta-llama/Llama-3.2-3B-Instruct",
+  "created_at": "2025-11-17T11:28:35.890225Z",
+  "raw_text": "{\n  \"marks_awarded\": 0,\n  \"feedback\": \"Missing AO1 and AO2 answers; incomplete and inaccurate explanations of climate change and greenhouse gases; lacks supporting evidence from Figure 3 and Figure 4.\",\n  \"alert\": true\n}",
+  "marks_awarded": 0,
+  "feedback": "Missing AO1 and AO2 answers; incomplete and inaccurate explanations of climate change and greenhouse gases; lacks supporting evidence from Figure 3 and Figure 4.",
+  "alert": true
+}

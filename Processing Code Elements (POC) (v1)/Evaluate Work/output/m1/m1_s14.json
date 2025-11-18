@@ -1,0 +1,11 @@
+{
+  "module_id": "m1",
+  "session_id": "14",
+  "student_file": "m1_s14.txt",
+  "model": "meta-llama/Llama-3.2-3B-Instruct",
+  "created_at": "2025-11-17T11:49:14.393345Z",
+  "raw_text": "{\n  \"marks_awarded\": 10,\n  \"feedback\": \"Strengths: Clear explanation of alternative energy production and planting trees' role in reducing climate change. Weaknesses: Missing link between air pressure and surface winds; incomplete explanation of climate change causes. Improvements: Provide more details on global atmospheric circulation model; clarify the role of Trade Winds in the diagram. 2 separate ways to reduce the damaging effects of an earthquake or volcanic eruption are missing. 2 correct answers for AO1 and AO4 questions. 2 marks for AO4 question on climate change causes. 1 mark for AO1 question on tropical storm with greatest number of deaths after 2000. 1 mark for AO3 question on climate change causes. 1 mark for AO2 question on global atmospheric circulation model. 1 mark for AO1 question on surface winds. 1 mark for AO4 question on equator's effect on rainfall. 1 mark for AO3 question on climate change causes. 1 mark for AO2 question on Trade Winds. 1 mark for AO1 question on hurricane Katrina. 1 mark for AO3 question on climate change causes. 1 mark for AO2 question on alternative energy production. 1 mark for AO4 question on climate change causes. 1 mark for AO1 question on climate change causes. 1 mark for AO3 question on climate change causes. 1 mark for AO2 question on planting trees. 1 mark for AO4 question on climate change causes. 1 mark for AO1 question on climate change causes. 1 mark for AO3 question on climate change causes. 1 mark for AO2 question on climate change causes. 1 mark for AO4 question on",
+  "marks_awarded": null,
+  "feedback": null,
+  "alert": false
+}

@@ -1,0 +1,11 @@
+{
+  "module_id": "m1",
+  "session_id": "2",
+  "student_file": "m1_s2.txt",
+  "model": "meta-llama/Llama-3.2-3B-Instruct",
+  "created_at": "2025-11-17T11:29:20.958909Z",
+  "raw_text": "{\"marks_awarded\": 6, \"feedback\": \"Strengths: Clear explanation of greenhouse gases and carbon dioxide in A2. Weaknesses: Lack of connection to other topics in A1; unclear explanation of fossil fuels in A3. Improvements: Provide more specific examples of planning measures; clarify the role of CO2 in global warming. \", \"alert\": false}",
+  "marks_awarded": 6,
+  "feedback": "Strengths: Clear explanation of greenhouse gases and carbon dioxide in A2. Weaknesses: Lack of connection to other topics in A1; unclear explanation of fossil fuels in A3. Improvements: Provide more specific examples of planning measures; clarify the role of CO2 in global warming. ",
+  "alert": false
+}

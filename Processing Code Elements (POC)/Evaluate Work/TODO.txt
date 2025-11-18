@@ -1,3 +1,0 @@
-Need to first look for m{n}_markscheme.txt, if none there then cancel.
-Collect all files in that format, make a list and then use it as a queue.
-Filter all data by marking session ID e.g. m1_s{n} and then process

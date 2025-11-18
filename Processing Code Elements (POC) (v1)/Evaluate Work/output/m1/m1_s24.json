@@ -1,0 +1,11 @@
+{
+  "module_id": "m1",
+  "session_id": "24",
+  "student_file": "m1_s24.txt",
+  "model": "meta-llama/Llama-3.2-3B-Instruct",
+  "created_at": "2025-11-17T12:05:12.374192Z",
+  "raw_text": "{\n  \"marks_awarded\": 0,\n  \"feedback\": \"Lack of direct link to AO1 and AO2 criteria. Missing key points about destructive plate boundaries, subduction zones, and associated hazards. No mention of the Nazca Plate and South American Plate as expected in AO2. No clear explanation of the role of magma and viscous flow in producing composite volcanoes. No discussion of earthquakes and volcanoes at destructive margins. No mention of planning and preparation for earthquakes and volcanic eruptions as required in AO1. No clear link to Figure 3 and AO4 criteria. Missing key points about air pressure and surface winds. No explanation of the link between air pressure and surface winds. No discussion of convectional thunderstorms near the Equator. No clear explanation of the role of human actions in climate change. No mention of the factors affecting climate change as required in AO3. No clear link to Figure 4 and AO3 criteria. Missing key points about the importance of human and physical factors in evaluating climate change. No discussion of the factors affecting climate change. No clear explanation of the importance of human factors in evaluating climate change. No mention of limited knowledge of climate change factors as required in AO3. No clear link to Figure 3 and AO4 criteria. Missing key points about air pressure and surface winds. No explanation of the link between air pressure and surface winds. No discussion of convectional thunderstorms near the Equator. No clear explanation of the role of human actions in climate change. No mention of the factors affecting climate change. No clear explanation of the importance of human factors in evaluating climate change. No mention of limited application of knowledge and understanding in evaluating climate change. No clear link to Figure",
+  "marks_awarded": null,
+  "feedback": null,
+  "alert": false
+}

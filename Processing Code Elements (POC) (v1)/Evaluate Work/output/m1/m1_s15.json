@@ -1,0 +1,11 @@
+{
+  "module_id": "m1",
+  "session_id": "15",
+  "student_file": "m1_s15.txt",
+  "model": "meta-llama/Llama-3.2-3B-Instruct",
+  "created_at": "2025-11-17T11:50:15.139913Z",
+  "raw_text": "{\n  \"marks_awarded\": 6,\n  \"feedback\": \"Strengths: Clear explanation of the role of trees in reducing carbon dioxide; good use of Figure 2 to describe global atmospheric circulation model. Gaps: Missing information on the specific tropical storm causing the greatest number of deaths after 2000; unclear explanation of how alternative energy production reduces greenhouse gases. Improvements: Provide specific examples of alternative energy sources and their impact; clarify the role of trees in reducing carbon dioxide levels. Alert: false\",\n  \"alert\": false\n}",
+  "marks_awarded": 6,
+  "feedback": "Strengths: Clear explanation of the role of trees in reducing carbon dioxide; good use of Figure 2 to describe global atmospheric circulation model. Gaps: Missing information on the specific tropical storm causing the greatest number of deaths after 2000; unclear explanation of how alternative energy production reduces greenhouse gases. Improvements: Provide specific examples of alternative energy sources and their impact; clarify the role of trees in reducing carbon dioxide levels. Alert: false",
+  "alert": false
+}
